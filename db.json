@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "abbc",
+      "price": 231,
+      "color": "red",
+      "department": "African Development Foundation"
+    },
+    {
+      "id": 2,
+      "title": "acc3",
+      "price": 21,
+      "color": "green",
+      "department": "Office of Cuba Broadcasting"
+    },
+    {
+      "id": 3,
+      "title": "b323",
+      "price": 1002,
+      "color": "green",
+      "department": "Secret Service"
+    }
+  ]
+}
